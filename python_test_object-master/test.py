@@ -1,6 +1,6 @@
 
 
-path='/Users/ayako/Documents/東京大学/GCI/python_test_object-master/input.txt'
+path='python_test_object-master/input.txt'
 with open(path) as f:
     List = [s.strip().split(':') for s in f.readlines()]
 
