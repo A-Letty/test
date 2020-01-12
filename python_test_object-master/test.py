@@ -24,22 +24,7 @@ if j==0:
 
 
 
-#l_swap = {v: k for k, v in l.items()}
 
-
-#for i in l.values():
-#    i=int(i)
-
-#print(l_swap)
-#for i in range (len(l)):
-#    l[keyi]=int(l[keyi])
-#print(l)
-
-
-
-
-#l =dict(List)
-#print(l)
 
 
 
