@@ -22,26 +22,3 @@ for i in range (len(List)):
 if j==0:
     print(m)
 
-
-
-
-
-
-
-
-
-
-
-
-
-#lst = literal_eval(List)
-#print(lst[0])
-
-#text = r'[{"id": "3", "name": "Jone", "age": "23"}, {"id": "1", "name": "Anne", "age": "17"}, {"id": "2", "name": "Ken", "age": "21"}]'
-#lst = literal_eval(text)
-
-#pprint(lst)
-#print(type(lst), type(lst[0]))
-
-
-
